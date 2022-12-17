@@ -34,11 +34,25 @@
             }
         }
     
-
+        public static void Divide() 
+        {
+            int a = int.Parse(Console.ReadLine());
+            if (a % 2 == 0)
+            {
+                Console.WriteLine($"{a} its even");
+            }
+            else
+            {
+                Console.WriteLine($"{a} is not even");
+            }      
+        }
         static void Main(){
             Max();
             TripleMax();
+            Divide();
         }
 
     }
 }
+
+
