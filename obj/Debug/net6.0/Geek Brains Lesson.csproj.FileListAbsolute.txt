@@ -1,0 +1,15 @@
+D:\Учёба\Geek Brains Lesson\obj\Debug\net6.0\Geek Brains Lesson.csproj.AssemblyReference.cache
+D:\Учёба\Geek Brains Lesson\obj\Debug\net6.0\Geek Brains Lesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Geek Brains Lesson\obj\Debug\net6.0\Geek Brains Lesson.AssemblyInfoInputs.cache
+D:\Учёба\Geek Brains Lesson\obj\Debug\net6.0\Geek Brains Lesson.AssemblyInfo.cs
+D:\Учёба\Geek Brains Lesson\obj\Debug\net6.0\Geek Brains Lesson.csproj.CoreCompileInputs.cache
+D:\Учёба\Geek Brains Lesson\bin\Debug\net6.0\Geek Brains Lesson.exe
+D:\Учёба\Geek Brains Lesson\bin\Debug\net6.0\Geek Brains Lesson.deps.json
+D:\Учёба\Geek Brains Lesson\bin\Debug\net6.0\Geek Brains Lesson.runtimeconfig.json
+D:\Учёба\Geek Brains Lesson\bin\Debug\net6.0\Geek Brains Lesson.dll
+D:\Учёба\Geek Brains Lesson\bin\Debug\net6.0\Geek Brains Lesson.pdb
+D:\Учёба\Geek Brains Lesson\obj\Debug\net6.0\Geek Brains Lesson.dll
+D:\Учёба\Geek Brains Lesson\obj\Debug\net6.0\refint\Geek Brains Lesson.dll
+D:\Учёба\Geek Brains Lesson\obj\Debug\net6.0\Geek Brains Lesson.pdb
+D:\Учёба\Geek Brains Lesson\obj\Debug\net6.0\Geek Brains Lesson.genruntimeconfig.cache
+D:\Учёба\Geek Brains Lesson\obj\Debug\net6.0\ref\Geek Brains Lesson.dll
